@@ -1,0 +1,11 @@
+C:\Users\isken\source\repos\NLayeredAppDemo\Entities\bin\Debug\Entities.dll
+C:\Users\isken\source\repos\NLayeredAppDemo\Entities\bin\Debug\Entities.pdb
+C:\Users\isken\source\repos\NLayeredAppDemo\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\isken\source\repos\NLayeredAppDemo\Entities\obj\Debug\Entities.dll
+C:\Users\isken\source\repos\NLayeredAppDemo\Entities\obj\Debug\Entities.pdb
+C:\Users\isken\Desktop\NLayeredAppDemo\Entities\bin\Debug\Entities.dll
+C:\Users\isken\Desktop\NLayeredAppDemo\Entities\bin\Debug\Entities.pdb
+C:\Users\isken\Desktop\NLayeredAppDemo\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\isken\Desktop\NLayeredAppDemo\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\isken\Desktop\NLayeredAppDemo\Entities\obj\Debug\Entities.dll
+C:\Users\isken\Desktop\NLayeredAppDemo\Entities\obj\Debug\Entities.pdb
